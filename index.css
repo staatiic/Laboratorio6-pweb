@@ -1,3 +1,30 @@
 body{
-    background-color: #abe4ff;
+    background-color: #383845;
+    font-family: 'Raleway', sans-serif;
+}
+.container1{
+    position: relative;
+}
+.p1{
+    text-align: center;
+    font-size: 60px;
+    color:white;
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  
+img{
+    width: 400px;
+    height: 400px;
 }

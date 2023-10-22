@@ -1,0 +1,26 @@
+body{
+    background-color: #12122b;
+}
+#card{
+    padding: 20px;
+    max-width: 540px;
+    display: block;
+    margin: 0 auto; 
+}
+.card-text{
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
+}
+.accordion{
+    padding: 20px;
+    display: block;
+    margin: 0 auto;  
+    max-width: 640px; 
+}
+.img1{
+    width:200px;
+    height: 200px;
+}
+.pp{
+    color:white
+}
