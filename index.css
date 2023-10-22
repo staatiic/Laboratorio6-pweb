@@ -4,6 +4,7 @@ body{
 }
 .container1{
     position: relative;
+    color: azure;
 }
 .p1{
     text-align: center;
